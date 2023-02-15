@@ -18,7 +18,7 @@ Search History - Verify Search History Items
 Search History - Verify Search History Items 2
   [Tags]    Sprint-43    smoke    search    discovery
   HomePage.Close Banner
-  SearchLogic.Check Search History Keywords    ${keyword_list}
+  SearchLogic.Check Search History Keywords    ${keyword}
 
 Search History - Verify Search History Items 3
   [Tags]    Sprint-43    smoke    search    discovery
